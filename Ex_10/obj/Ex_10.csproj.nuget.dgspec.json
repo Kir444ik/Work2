@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Kirill\\Desktop\\Новая папка\\Ex_10\\Ex_10.csproj": {}
+    "c:\\Users\\Kirill\\Desktop\\www\\Ex_10\\Ex_10.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Kirill\\Desktop\\Новая папка\\Ex_10\\Ex_10.csproj": {
+    "c:\\Users\\Kirill\\Desktop\\www\\Ex_10\\Ex_10.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kirill\\Desktop\\Новая папка\\Ex_10\\Ex_10.csproj",
+        "projectUniqueName": "c:\\Users\\Kirill\\Desktop\\www\\Ex_10\\Ex_10.csproj",
         "projectName": "Ex_10",
-        "projectPath": "C:\\Users\\Kirill\\Desktop\\Новая папка\\Ex_10\\Ex_10.csproj",
+        "projectPath": "c:\\Users\\Kirill\\Desktop\\www\\Ex_10\\Ex_10.csproj",
         "packagesPath": "C:\\Users\\Kirill\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kirill\\Desktop\\Новая папка\\Ex_10\\obj\\",
+        "outputPath": "c:\\Users\\Kirill\\Desktop\\www\\Ex_10\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Kirill\\AppData\\Roaming\\NuGet\\NuGet.Config"
